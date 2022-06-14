@@ -1,4 +1,4 @@
-## ROBITT: Risk of Bias in Temporal Trends in Ecology
+## ROBITT: Risk-Of-Bias in Temporal Trends in Ecology
 
 This repository contains Word versions of our risk-of-bias tool for temporal trends in ecology and the accompanying guidance document.
 
